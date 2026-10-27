@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Mouse",
+        "quantidade": 10,
+        "preco": 50.0
+    },
+    {
+        "nome": "Teclado",
+        "quantidade": 5,
+        "preco": 120.0
+    },
+    {
+        "nome": "Monitor",
+        "quantidade": 3,
+        "preco": 800.0
+    },
+    {
+        "nome": "Headset",
+        "quantidade": 8,
+        "preco": 90.0
+    },
+    {
+        "nome": "Webcam",
+        "quantidade": 10,
+        "preco": 11.0
+    }
+]
